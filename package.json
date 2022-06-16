@@ -13,6 +13,6 @@
 		"baretest": "^2.0.0",
 		"eslint": "^8.17.0",
 		"eslint-plugin-prettier": "^4.0.0",
-		"prettier": "^2.7.0"
+		"prettier": "^2.7.1"
 	}
 }
